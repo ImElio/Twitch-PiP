@@ -1,7 +1,7 @@
 # Twitch Picture-in-Picture (DPiP Overlay)
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Elio/Twitch-PiP/main/twitch-picture-in-picture.user.js">
+  <a href="https://raw.githubusercontent.com/ImElio/Twitch-PiP/main/twitch-pip.user.js">
     <img alt="Install with Tampermonkey" src="https://img.shields.io/badge/Install%20Userscript-Click%20to%20Install-4CAF50?logo=greasyfork&logoColor=white">
   </a>
   &nbsp;
